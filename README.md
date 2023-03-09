@@ -19,7 +19,7 @@ dotnet ef migrations add InitialCreate
 dotnet ef database update
 
 Run:
-dotnet run
+dotnet watch run
 ```
 
 ## Notes
